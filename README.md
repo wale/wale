@@ -20,8 +20,6 @@ I'm **Duale Siad** *(pronounced doo-WAH-lee)*, or you can call me "Wale" *(prono
 ## Notable Projects:
 - **[upperkt](https://github.com/wale/upperkt)** - A CLI client for Up bank, written in Kotlin.
 - **[okfluent](https://github.com/wale/okfluent)** - A weird experiment in using Kotlin string extensions to send HTTP requests. Based on a C# library named [Flurl](https://flurl.dev).
-- **[ticscripts](https://github.com/wale/ticscripts)** - Notes and scripts that help me reverse engineer the [TicWatch Pro 3 Ultra GPS](https://www.mobvoi.com/us/pages/ticwatchpro3ultra) and its apps.
-- **[netute](https://github.com/wale/netute)** *(coming soon)* - A modern stack of networking tools written in Rust, as a spiritual successor to GNU `inetutils`.
 
 ## Links
 - Twitter: **[@spellsaidwrong](https://twitter.com/spellsaidwrong)**
