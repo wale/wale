@@ -23,7 +23,7 @@ I'm **Duale Siad** *(pronounced doo-WAH-lee)*, or you can call me "Wale" *(prono
 
 ## Links
 - Twitter: **[@spellsaidwrong](https://twitter.com/spellsaidwrong)**
-- Blog: **https://wale.id.au**
+- Blog: **https://wale.au**
 
 
 
