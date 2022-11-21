@@ -17,13 +17,8 @@
 I'm **Duale Siad** *(pronounced doo-WAH-lee)*, or you can call me "Wale" *(pronounced WAH-lee)*. I'm a self-taught developer currently residing in Australia. 
 
 
-## Notable Projects:
-- **[upperkt](https://github.com/wale/upperkt)** - A CLI client for Up bank, written in Kotlin.
-- **[okfluent](https://github.com/wale/okfluent)** - A weird experiment in using Kotlin string extensions to send HTTP requests. Based on a C# library named [Flurl](https://flurl.dev).
-
 ## Links
 - Twitter: **[@spellsaidwrong](https://twitter.com/spellsaidwrong)**
+- Mastodon: **[@wale@merveilles.town](https://merveilles.town/@wale)**
+- Cohost: **[@wale](https://cohost.org/wale)**
 - Blog: **https://wale.au**
-
-
-
