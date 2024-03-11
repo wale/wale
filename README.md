@@ -18,7 +18,7 @@ I'm **Duale Siad** *(pronounced doo-WAH-lee)*, or you can call me "Wale" *(prono
 
 
 ## Links
-- Twitter: **[@spellsaidwrong](https://twitter.com/spellsaidwrong)**
-- Mastodon: **[@wale@merveilles.town](https://merveilles.town/@wale)**
+- Instagram (photography): **[@spellsaidwrong](https://instagram.com/spellsaidwrong)**
+- Mastodon: **[@wale@aus.social](https://merveilles.town/@aus.social)**
 - Cohost: **[@wale](https://cohost.org/wale)**
 - Blog: **https://wale.au**
