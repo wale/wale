@@ -1,3 +1,5 @@
+# Repositories are moving to my [Codeberg account](https://codeberg.org/wale/). See the [corresponding blog post](https://wale.au/blog/found-a-new-forge) for details.
+
 <div align='center'>
   <div align='center'>
     <img
